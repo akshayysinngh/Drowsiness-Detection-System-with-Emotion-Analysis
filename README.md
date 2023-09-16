@@ -24,9 +24,9 @@ Pre-trained models refer to models already trained to solve similar problems. In
 
 # Dependencies and Libraries Used
 
-OpenCV: An open-source computer vision and machine learning software library used for various computer vision applications.
-Imutils: A package providing a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV.
-Keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It allows for easy and fast prototyping.
-DeepFace: A Python wrapper for deep learning-based face recognition models from famous frameworks inside, including VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, and DeepID.
-HaarCascade: A machine learning object detection method used to identify objects in images or video. Particularly, it's popular for face detection.
-TensorFlow: An open-source software library for dataflow and differentiable programming across a range of tasks, widely used for machine learning applications such as neural networks.
+- OpenCV: An open-source computer vision and machine learning software library used for various computer vision applications.
+- Imutils: A package providing a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV.
+- Keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It allows for easy and fast prototyping.
+- DeepFace: A Python wrapper for deep learning-based face recognition models from famous frameworks inside, including VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, and DeepID.
+- HaarCascade: A machine learning object detection method used to identify objects in images or video. Particularly, it's popular for face detection.
+- TensorFlow: An open-source software library for dataflow and differentiable programming across a range of tasks, widely used for machine learning applications such as neural networks.
